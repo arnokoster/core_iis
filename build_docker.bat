@@ -1,0 +1,1 @@
+docker build -t core_iis . --build-arg omgeving=prod --build-arg poort=80 
